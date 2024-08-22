@@ -12,7 +12,7 @@ I'm a Master's student in Computer Software Engineering with a passion for build
 - **Tools**: Git, GitHub, JIRA, Confluence
 
 ## Get in Touch
-- **LinkedIn**: [My profile](https://www.linkedin.com/in/yourusername)
+- **LinkedIn**: [Amit Noel Thokala](https://www.linkedin.com/in/yourusername)
 - **Email**: amitnoelms@gmail.com
 
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out!

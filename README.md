@@ -7,7 +7,7 @@ I'm a Master's student in Computer Software Engineering with a passion for build
 - **Languages**: Java, Python, C++, JavaScript, TypeScript, SQL
 - **Web Development**: Next.js, React, HTML, CSS, Tailwind CSS, Angular
 - **Backend**: Spring Boot, Node.js, RESTful APIs, Prisma, PostgreSQL
-- **DevOps**: Docker, Kubernetes, Jenkins, AWS (EC2, RDS, S3, ElastiCache, Bedrock)
+- **DevOps**: Docker, Kubernetes, Jenkins, AWS (EC2, RDS, S3, SQS, ElastiCache, Bedrock)
 - **AI/ML**: OpenAI, TensorFlow, Keras, Scikit-learn, Pinecone, Bedrock Agents
 - **Tools**: Git, GitHub, JIRA, Confluence
 
